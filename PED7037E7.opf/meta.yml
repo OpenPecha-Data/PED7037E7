@@ -1,0 +1,17 @@
+id: PED7037E7
+initial_creation_type: input
+source_metadata:
+  title: Jamyang Khyenrab Tayé Series
+  language: bo
+  description: 'Texts by and about Jamyang Khyenrab Tayé (''jam dbyangs mkhyen rab
+    mtha’ yas, 1862–1937):'
+  volume:
+    c60a019eb0d14ad6a8a02b03411b6d86:
+      title: 'The Fresh Utpala: A Prayer to the Great Learned Teacher and Vajra-Holder
+        Jamyang Khyenrab Tayé'
+      parent: Prayers
+    6a0a7d3812514066ba285e0082549666:
+      title: Prayer for the Swift Rebirth of Jamyang Khyenrab Tayé
+      parent: Swift Rebirth Prayers
+created_at: '2022-02-28T23:34:29.574341'
+last_modified_at: '2022-02-28T23:34:29.574343'
